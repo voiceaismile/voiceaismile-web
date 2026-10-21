@@ -83,7 +83,6 @@ VoiceAI Smile operates **ONLY** through these channels. Anything else claiming t
 | LinkedIn | https://www.linkedin.com/company/voiceaismile/ |
 | Facebook | https://web.facebook.com/voiceaismile/ |
 | TikTok | https://www.tiktok.com/@voiceai.smile |
-| Trustpilot | https://www.trustpilot.com/review/voiceaismile.web.app |
 | GitHub | https://github.com/voiceaismile/voiceaismile-web |
 
 > ⚠️ **Beware of impersonators:** If anyone contacts you claiming to be VoiceAI Smile from any other website, email, number, or social account – or if you find a copycat/clone site – treat it as fake and report it to voiceaismile@gmail.com.
